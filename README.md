@@ -8,7 +8,6 @@
 
 ## Analyticals Insights
 ![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/PBYOGH.png)
-
 * The above bar plot shows that after the year 1969, almost no wine produced sold for over '1000'. This bit of information seems useful as it may be a grape quality issue, as discussed in our other trend of rating by year of the grape harvest.
 
 ![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/ROWBOHYOG.png)
@@ -45,7 +44,11 @@
 * Can we predict stage of cirrohosis based on the provided data.
 
 ## Analyticals Insights
+![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/bilirubin.png)
+* This line plot shows us that when Bilirubin is above 7~mg/dl patients are at stage 2 or above of the disease
 
+![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/albmuin.png)
+* In this lineplot we can see that after 2.5 mg/dl or lower is found in the blood of Albumin we see many if not all patients at stage 3-4 of the disease.
 
 ### Random Forest Regression w/o PCA Test Scores Tuned Scores
 * MAE: 0.5911
