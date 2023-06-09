@@ -12,7 +12,7 @@ A summary with at least 2 recommendations for your stakeholders, based on your m
 ## Business Problem to solve.
 * Our business problem is to find out how rating effects the price of wine. Stakeholders - Investors of the wine producers, farmers who are growing grapes.
 
-## Source : https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
+## [Data Source](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
 
 ## A list of 7000+ wines that describe their price, rating, and even some flavor description.
 ![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/PBYOGH.png)
