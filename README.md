@@ -17,9 +17,7 @@ A summary with at least 2 recommendations for your stakeholders, based on your m
 ## A list of 7000+ wines that describe their price, rating, and even some flavor description.
 
 ## Harvest year and quality of harvest Greatly effect the rating. Rating effects price directly in most cases.
-
-![Alt text]([image link](https://github.com/MikeyClausen/Project-2/blob/main/ROWBOHYOG.png))
-
+![Alt text]((https://github.com/MikeyClausen/Project-2/blob/main/ROWBOHYOG.png)
 ##  Above line plot shows the drop in rating based on the year grapes were harvested. A significant decline can be seen from 1990 onward.
 
 ## The above bar plot shows that after the year 1969, almost no wine produced sold for over '1000'. This bit of information seems useful as it may be a grape quality issue, as discussed in our other trend of rating by year of the grape harvest.
