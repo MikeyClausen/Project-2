@@ -1,5 +1,5 @@
 # Project-2
-## Spanish Wine
+# Spanish Wine
 ## [Data Source](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
 ### Description of data
 * A list of 7000+ wines that describe their price, rating, and even some flavor description.
@@ -38,3 +38,28 @@
 * It can also help us understand other changes that may have occured, during certain years or during the processes involved in making the wine.
 
 # Cirrhosis
+## [Data Source](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)
+### Description of data
+
+
+### Random Forest Regression w/o PCA Test Scores Tuned Scores
+* MAE: 0.5911
+* MSE: 0.5141
+* RMSE: 0.7170
+* R2: 0.3281
+
+### Random Forest Regression w/o PCA Train Scores Tuned Scores
+* MAE: 0.2414
+* MSE: 0.0866
+* RMSE: 0.2943
+* R2: 0.8853
+
+
+## Description of model.
+
+* Random Forest Regression used to predict on the model performed the best. Without more data, or a subject matter expert to help with feature engineering I do not recommend using it.
+
+## Recommendations
+
+* I recommend first taking more time to collect data.
+* Once this has been done, provide a subject matter expert to help with feature engineering.
