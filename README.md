@@ -24,21 +24,19 @@ A summary with at least 2 recommendations for your stakeholders, based on your m
 
 ## The above bar plot shows that after the year 1969, almost no wine produced sold for over '1000'. This bit of information seems useful as it may be a grape quality issue, as discussed in our other trend of rating by year of the grape harvest.
 
-### ------------------------------------------------------------
-[i] REGRESSION METRICS FOR: Test Data Random Forest Regressor
-------------------------------------------------------------
-R2 Score: 0.7953
-Mean Absolute Error: 0.001128
-Mean Squared Error: 0.000088
-Root Mean Squared Error: 0.009403
-Explained Variance Score: 0.795340
-Max Error: 0.142000
-------------------------------------------------------------
-[i] REGRESSION METRICS FOR: Training Data Random Forest Regressor
-------------------------------------------------------------
-R2 Score: 0.9642
-Mean Absolute Error: 0.000443
-Mean Squared Error: 0.000020
-Root Mean Squared Error: 0.004420
-Explained Variance Score: 0.964161
-Max Error: 0.110500
+
+### Test Data Random Forest Regressor
+* R2 Score: 0.7953
+* Mean Absolute Error: 0.001128
+* Mean Squared Error: 0.000088
+* Root Mean Squared Error: 0.009403
+* Explained Variance Score: 0.795340
+* Max Error: 0.142000
+
+### Training Data Random Forest Regressor
+* R2 Score: 0.9642
+* Mean Absolute Error: 0.000443
+* Mean Squared Error: 0.000020
+* Root Mean Squared Error: 0.004420
+* Explained Variance Score: 0.964161
+* Max Error: 0.110500
