@@ -39,7 +39,10 @@
 
 # Cirrhosis
 ## [Data Source](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)
-### Description of data
+## Description of Data
+* Several features to help predict if someone has cirrhosis of the liver.
+
+
 
 
 ### Random Forest Regression w/o PCA Test Scores Tuned Scores
