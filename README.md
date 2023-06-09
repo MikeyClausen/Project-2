@@ -7,11 +7,11 @@
 * Our business problem is to find out how rating effects the price of wine. Stakeholders - Investors of the wine producers, farmers who are growing grapes.
 
 ## Analyticals Insights
-![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/PBYOGH.png)
+![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/PBYOGH.png)
 
 * The above bar plot shows that after the year 1969, almost no wine produced sold for over '1000'. This bit of information seems useful as it may be a grape quality issue, as discussed in our other trend of rating by year of the grape harvest.
 
-![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/ROWBOHYOG.png)
+![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/ROWBOHYOG.png)
 *  Above line plot shows the drop in rating based on the year grapes were harvested. A significant decline can be seen from 1990 onward.
 
 ### Test Data Random Forest Regressor
