@@ -15,7 +15,7 @@ A summary with at least 2 recommendations for your stakeholders, based on your m
 ## Source : https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 ## A list of 7000+ wines that describe their price, rating, and even some flavor description.
-
+![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/PBYOGH.png)
 ## Harvest year and quality of harvest Greatly effect the rating. Rating effects price directly in most cases.
 ![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/ROWBOHYOG.png)
 ##  Above line plot shows the drop in rating based on the year grapes were harvested. A significant decline can be seen from 1990 onward.
