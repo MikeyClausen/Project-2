@@ -14,20 +14,20 @@
 *  Above line plot shows the drop in rating based on the year grapes were harvested. A significant decline can be seen from 1990 onward.
 
 ### Test Data Random Forest Regressor
-* R2 Score: 0.7953
-* Mean Absolute Error: 0.001128
-* Mean Squared Error: 0.000088
-* Root Mean Squared Error: 0.009403
-* Explained Variance Score: 0.795340
-* Max Error: 0.142000
+* R2 Score: 0.9638
+* Mean Absolute Error: 0.330771
+* Mean Squared Error: 11.879550
+* Root Mean Squared Error: 3.446672
+* Explained Variance Score: 0.963791
+* Max Error: 68.925469
 
 ### Training Data Random Forest Regressor
-* R2 Score: 0.9642
-* Mean Absolute Error: 0.000443
-* Mean Squared Error: 0.000020
-* Root Mean Squared Error: 0.004420
-* Explained Variance Score: 0.964161
-* Max Error: 0.110500
+* R2 Score: 0.9799
+* Mean Absolute Error: 0.201825
+* Mean Squared Error: 7.426682
+* Root Mean Squared Error: 2.725194
+* Explained Variance Score: 0.979874
+* Max Error: 104.330066
 
 ## Description of Model
 * The Random Forest Regressor performs well on the model. Has a high R2 Score, High Explained Variance.
