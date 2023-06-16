@@ -39,7 +39,7 @@
 # Cirrhosis
 ## [Data Source](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)
 ## Description of Data
-* Several features to help predict if soneone's stage of cirrhosis of the liver.
+* Several different variables related to the disease that can be used to help predict if someone is suffering from cirrhosis.
 ## Business Problem to solve
 * Can we predict stage of cirrohosis based on the provided data.
 
