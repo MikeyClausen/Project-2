@@ -50,22 +50,31 @@
 ![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/albmuin.png)
 * In this lineplot we can see that after 2.5 mg/dl or lower is found in the blood of Albumin we see many if not all patients at stage 3-4 of the disease.
 
-### Random Forest Regression w/o PCA Test Scores Tuned Scores
-* MAE: 0.5911
-* MSE: 0.5141
-* RMSE: 0.7170
-* R2: 0.3281
+## CLASSIFICATION REPORT FOR: Random Forest Classifier w/o PCA Test
+###              precision    recall  f1-score   support
 
-### Random Forest Regression w/o PCA Train Scores Tuned Scores
-* MAE: 0.2414
-* MSE: 0.0866
-* RMSE: 0.2943
-* R2: 0.8853
+*          0.0       0.84      0.84      0.84        63
+*          1.0       0.73      0.73      0.73        37
+
+*     accuracy                           0.80       100
+*    macro avg       0.79      0.79      0.79       100
+* weighted avg       0.80      0.80      0.80       100
+
+## CLASSIFICATION REPORT FOR: Random Forest Classifier w/o PCA Train
+
+ ###             precision    recall  f1-score   support
+
+*          0.0       1.00      1.00      1.00       195
+*          1.0       1.00      1.00      1.00       104
+
+*     accuracy                           1.00       299
+*    macro avg       1.00      1.00      1.00       299
+* weighted avg       1.00      1.00      1.00       299
 
 
 ## Description of model.
 
-* Random Forest Regression used to predict on the model performed the best. Without more data, or a subject matter expert to help with feature engineering I do not recommend using it.
+* Random Forest Classifier used to predict on the model performed the best. Without more data, or a subject matter expert to help with feature engineering I do not recommend using it.
 
 ## Recommendations
 
