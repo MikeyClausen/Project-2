@@ -64,12 +64,12 @@
 
  ###             precision    recall  f1-score   support
 
-*          0.0       1.00      1.00      1.00       195
-*          1.0       1.00      1.00      1.00       104
+*'          0.0       1.00      1.00      1.00       195'
+*'          1.0       1.00      1.00      1.00       104'
 
-*     accuracy                           1.00       299
-*    macro avg       1.00      1.00      1.00       299
-* weighted avg       1.00      1.00      1.00       299
+*'     accuracy                           1.00       299'
+*'    macro avg       1.00      1.00      1.00       299'
+*' weighted avg       1.00      1.00      1.00       299'
 
 
 ## Description of model.
