@@ -13,24 +13,24 @@
 ![Alt text](https://github.com/MikeyClausen/Project-2/blob/main/pics/ROWBOHYOG.png)
 *  Above line plot shows the drop in rating based on the year grapes were harvested. A significant decline can be seen from 1990 onward.
 
-### Test Data Random Forest Regressor
-* R2 Score: 0.9638
-* Mean Absolute Error: 0.330771
-* Mean Squared Error: 11.879550
-* Root Mean Squared Error: 3.446672
-* Explained Variance Score: 0.963791
-* Max Error: 68.925469
+### REGRESSION METRICS FOR: Test Data XGBoost Tuned
+* R2 Score: 0.9467
+* Mean Absolute Error: 1.868367
+* Mean Squared Error: 17.491149
+* Root Mean Squared Error: 4.182242
+* Explained Variance Score: 0.954208
+* Max Error: 81.715500
 
-### Training Data Random Forest Regressor
-* R2 Score: 0.9799
-* Mean Absolute Error: 0.201825
-* Mean Squared Error: 7.426682
-* Root Mean Squared Error: 2.725194
-* Explained Variance Score: 0.979874
-* Max Error: 104.330066
+### REGRESSION METRICS FOR: Training Data XGBoost Tuend
+* R2 Score: 0.9857
+* Mean Absolute Error: 1.638309
+* Mean Squared Error: 5.274667
+* Root Mean Squared Error: 2.296664
+* Explained Variance Score: 0.992968
+* Max Error: 60.851318
 
 ## Description of Model
-* The Random Forest Regressor performs well on the model. Has a high R2 Score, High Explained Variance.
+* XGBoost performed the best on the model with a high r2 score, of 98% of the variance being explained.
 
 ## Recommendations
 * This model could be implemented to help look at the years grapes where harvested to see what factors provided a better rating.
